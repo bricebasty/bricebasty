@@ -25,7 +25,8 @@ Ruby | Godot Engine | JS | Elixir
 
 🌐 Portfolio (Coming Soon)
 
+![Codewars Kyus](https://www.codewars.com/users/bricebasty/badges/small)
+
 📌 Pinned Repositories
 ⬇️ Check out some of my work below! ⬇️
 
-![Codewars Kyus](https://www.codewars.com/users/bricebasty/badges/small)
