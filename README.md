@@ -2,7 +2,7 @@
 
 ## 🚀 LaunchSchool Enthusiast 🚀
 
-👨‍💻 Currently mastering the RB110 track at LaunchSchool  
+👨‍💻 Currently mastering the RB119 track at LaunchSchool  
 
 🎯 Learning the intricacies of [Ruby](https://www.ruby-lang.org/) to build robust, maintainable software  
 
@@ -21,7 +21,7 @@ I'm currently working on a game that's not just a game! Imagine boosting your pr
 Ruby | Godot Engine | JS | Elixir
 
 ## 🤝 Let's Connect
-💼 [LinkedIn](https://linkedin.com/bricebasty)
+💼 [LinkedIn](https://linkedin.com/brice-basty)
 
 🌐 Portfolio (Coming Soon)
 
