@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Brice Basty
+# Hey I'm Brice Basty
 
 ## 🚀 LaunchSchool Enthusiast 🚀
 
@@ -8,22 +8,16 @@
 
 I'm writing some articles throughout my learning at LS, you can find them [here](https://medium.com/p/f1336672fa29)
 
-## 🎮 Gaming & Productivity Enthusiast 🚀
+## Started working at Forfeit.app
 
-I'm currently working on a game that's not just a game! Imagine boosting your productivity while having fun – that’s the essence of my project.  
-
-🔗 Timer Titans  
-
-👀 Elevate your productivity with strategic gaming – Coming Soon!  
+We build software that makes people accountable and perform all the habits they never were able to commit to.
 
 ## 🤖 Technologies & Tools
 
-Ruby | Godot Engine | JS | Elixir
+Flutter | Ruby/JS | Godot | Elixir
 
 ## 🤝 Let's Connect
 💼 [LinkedIn](https://linkedin.com/brice-basty)
-
-🌐 Portfolio (Coming Soon)
 
 ![Codewars Kyus](https://www.codewars.com/users/bricebasty/badges/small)
 
